@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(10, 206, 163);
+    color: rgb(7, 12, 0);
+}
+
+.title {
+    background: yellow;
+    color: red;
+}
+
+.description {
+    background: salmon;
+    color: sienna;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
