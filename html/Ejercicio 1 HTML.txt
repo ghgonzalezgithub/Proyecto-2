@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mi primera pagina </title>
+</head>
+<body>
+    
+    <h1>Esta es una pagina de prueba</h1>
+    <h2>sirve para diferenciar tamaños</h2>
+    <h3>y diferencia la medida</h3>
+    <h4>otra cosa mas</h4>
+
+    
+
+    <button>click</button> <!--esto es un boton-->
+
+    <ul>
+        <li>carro</li>
+        <li>casa</li>
+        <li>desde unas pocas palabras hasta múltiples párrafos, pero para que un texto sea efectivo en su función de transmitir un mensaje, debe cumplir con dos características: coherencia y cohesión.
+
+            Coherencia: establece la relación lógica entre las ideas de un texto, logrando que se complementen unas con otras.
+            Cohesión: establece la conexión armoniosa entre las diversas partes del texto, en la composición de parágrafos, frases.</li>
+
+   </ul> 
+
+   <ol>
+       <li>carro</li>
+       <li>casa</li>
+
+       <div>
+           <p>
+            stablece la relación lógica entre las ideas de un texto, <br>logrando que se complementen unas con otras.
+            Cohesión: establece la conexión armoniosa entre las diversas <br>partes del texto, en la composición de parágrafos, frases.
+           </p>
+
+       </div>
+
+       <img src="img/IMG_5568.jpg" alt="foto">
+
+
+
+   </ol>
+
+
+
+</body>
+</html>
